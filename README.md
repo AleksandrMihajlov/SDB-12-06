@@ -18,7 +18,7 @@ Slave работает только начтение. Возможно испо�
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*  
   
-<details>   
+<details> 
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-06/blob/main/2.png)
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-06/blob/main/2.1.png)
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-06/blob/main/2.2.png)
